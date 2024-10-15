@@ -1,1 +1,16 @@
-
+{
+    "is_success": true,
+    "data": {
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1MzczMSwidXNlcm5hbWUiOiJ0ZXN0dXNlciIsImV4cCI6MTczMTU4OTMwNywiZW1haWwiOiIiLCJvcmlnX2lhdCI6MTcyODk5NzMwN30.eg2Uns5LMt5mqOZ_fkRYn0TWLwym2v6bJ-81xz0ZGzQ",
+        "expiry": "2024-11-14T13:01:47.049017+00:00",
+        "password_expiry": "2024-11-25T10:58:16.753454+00:00",
+        "is_borrower": false,
+        "is_staff": true,
+        "full_name": null,
+        "is_mobile_number_verified": true,
+        "is_email_verified": false,
+        "user_type": "Broker Member",
+        "is_mfa_enabled": false,
+        "force_mfa": false
+    }
+}
