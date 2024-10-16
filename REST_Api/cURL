@@ -1,0 +1,6 @@
+curl request of Login
+curl --location --request POST 'https://demo.onefin.in/api/v1/usermodule/login/'
+
+curl request of Movie
+curl --location 'https://demo.onefin.in/api/v1/maya/movies/?page=2' \
+--header 'Authorization: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1MzczMSwidXNlcm5hbWUiOiJ0ZXN0dXNlciIsImV4cCI6MTczMTU5MTE0MywiZW1haWwiOiIiLCJvcmlnX2lhdCI6MTcyODk5OTE0M30.uDSsJ9EuFh22fyTmLEb5TUu-to_NDSzBRp5c5VosI4w'
